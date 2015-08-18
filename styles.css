@@ -1,0 +1,39 @@
+.title
+{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+
+.description
+{
+	color: gray;
+	font-size:25px;
+	border-style:solid;
+	padding:25px 20px;
+    width: 1000px;
+    background-color: yellow;
+}
+
+.image {
+    width: 200px;
+    position: relative;
+    left: 20px;
+}
+
+.chart {
+	width: 600px;
+	height:600px;
+}
+
+.circleclass{
+	stroke:black;
+	fill:white;
+	stroke-with:5px;
+}
+
+.eyes{
+	stroke:black;
+	fill:black;
+	stroke-with:5px;
+}
